@@ -22,8 +22,8 @@ Use Opening operation.
 Use Closing Operation.
 
 ## Program:
-## DEVELOPED BY : JAYASRI DODDA
-## REGISTER NO : 212222240028
+## DEVELOPED BY : RASIKA
+## REGISTER NO : 212222230117
 ## Import the necessary packages :
 ```
 import cv2
